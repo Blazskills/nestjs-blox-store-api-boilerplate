@@ -1,3 +1,3 @@
 PORT=3001
 NODE_ENV=local
-APP_NAME="Blox Store API"
+APP_NAME="Blazskills Store API"
